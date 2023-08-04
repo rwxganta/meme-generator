@@ -2,7 +2,7 @@
 
 .wrapper {
     margin-inline: auto;
-    padding: 2.1rem;
+    padding-inline: 2.1rem;
     max-width: 29rem;
 }
 
@@ -10,6 +10,7 @@
 /* Header */
 
 .header {
+    margin-block-end: 4rem;
     padding: 1.1875rem;
     background: linear-gradient(to right, hsl(284, 58%, 32%), hsl(284, 69%, 49%));
     display: flex;
