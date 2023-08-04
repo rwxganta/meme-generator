@@ -7,7 +7,7 @@ export default function Meme() {
                 <input type="text" placeholder='Type upper text' />
                 <input type="text" placeholder='Type lower text' />
             </div>
-            <button>Get a new meme image</button>
+            <button type='button'>Get a new meme image</button>
         </form>
     )
 }
