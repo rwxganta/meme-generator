@@ -1,0 +1,28 @@
+/* Gereral */
+
+.wrapper {
+    margin-inline: auto;
+    padding: 2.1rem;
+    max-width: 29rem;
+}
+
+
+/* Header */
+
+.header {
+    padding: 1.1875rem;
+    background: linear-gradient(to right, hsl(284, 58%, 32%), hsl(284, 69%, 49%));
+    display: flex;
+    align-items: center;
+    gap: .4rem;
+}
+
+.header__img {
+    max-width: 1.9rem;
+}
+
+.header__title {
+    font-size: 1.25rem;
+    font-weight: 600;
+    letter-spacing: -2px;
+}
